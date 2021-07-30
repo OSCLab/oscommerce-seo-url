@@ -1,1 +1,1 @@
-# oscommerce-seo-pack-pro
+# osCommerce SEO URL
